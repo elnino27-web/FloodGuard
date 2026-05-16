@@ -27,19 +27,19 @@ Sistem telah dioptimalkan secara visual agar bersahabat bagi pengguna seluler ta
 ### 1. Halaman Beranda (Landing Page)
 Menampilkan identitas utama aplikasi, deskripsi fungsi deteksi dini, lencana sub-sistem, serta akses cepat menuju mesin kalkulator fuzzy.
 <p align="center">
-  <img src="UI/Cuplikan layar 2026-05-16 220717.jpg" width="310" alt="Halaman Beranda FloodGuard Mobile">
+  <img src="UI/beranda.png" width="310" alt="Halaman Beranda FloodGuard Mobile">
 </p>
 
 ### 2. Form Input Parameter Observasi
 Antarmuka interaktif yang dilengkapi efek *focus-glowing* untuk memasukkan parameter Tinggi Muka Air (Meter), Curah Hujan (mm), dan Durasi Hujan (Jam).
 <p align="center">
-  <img src="UI/Cuplikan layar 2026-05-16 220740.jpg" width="310" alt="Form Input Parameter FloodGuard Mobile">
+  <img src="UI/input.png" width="310" alt="Form Input Parameter FloodGuard Mobile">
 </p>
 
 ### 3. Dashboard Hasil Analisis (Output)
 Menampilkan skor kristal hasil defuzzifikasi centroid beserta panel gradien warna dinamis, ikon representasi status, kartu rincian observasi, dan penjelasan ringkas metode.
 <p align="center">
-  <img src="UI/Cuplikan layar 2026-05-16 220807.jpg" width="310" alt="Halaman Hasil Analisis FloodGuard Mobile">
+  <img src="UI/hasil.png" width="310" alt="Halaman Hasil Analisis FloodGuard Mobile">
 </p>
 
 ---
